@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # driver_drowsiness
 AIML project
+=======
+>>>>>>> 291c4e36f76f4cd676b3845f29802e46a8668b63
 # 🚗 Driver Drowsiness Detection System
 
 ## 📌 Overview
@@ -123,3 +126,7 @@ BTech CSE Student
 ## 📜 License
 
 This project is for educational purposes only.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 291c4e36f76f4cd676b3845f29802e46a8668b63
