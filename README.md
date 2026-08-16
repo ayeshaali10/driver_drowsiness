@@ -1,18 +1,17 @@
 
 # driver_drowsiness
-AIML project
 =======
 
-# 🚗 Driver Drowsiness Detection System
+# Driver Drowsiness Detection System
 
-## 📌 Overview
+##  Overview
 
 This project is a **real-time Driver Drowsiness Detection System** built using Python and OpenCV.
 It monitors the driver's face through a webcam and detects signs of drowsiness such as **eye closure** and **yawning**, then alerts the user.
 
 ---
 
-## 🎯 Features
+##  Features
 
 * 👁️ Eye detection using Haar Cascade
 * 😴 Detects prolonged eye closure (drowsiness)
@@ -23,7 +22,7 @@ It monitors the driver's face through a webcam and detects signs of drowsiness s
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * OpenCV (`cv2`)
@@ -31,7 +30,7 @@ It monitors the driver's face through a webcam and detects signs of drowsiness s
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project-folder/
@@ -42,7 +41,7 @@ project-folder/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Install Python
 
@@ -58,7 +57,7 @@ pip install opencv-python numpy
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open project in VS Code
 2. Open terminal
@@ -72,7 +71,7 @@ python drowsiness_detection.py
 
 ---
 
-## ⛔ How to Stop
+## How to Stop
 
 * Press **Q key** on keyboard
   or
@@ -80,7 +79,7 @@ python drowsiness_detection.py
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 * Detects face using Haar Cascade
 * Splits face into:
@@ -98,7 +97,7 @@ python drowsiness_detection.py
 
 ---
 
-## 📸 Output
+## Output
 
 * Green box → Alert
 * Orange box → Warning
@@ -107,7 +106,7 @@ python drowsiness_detection.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add alarm sound 🔊
 * Improve accuracy using AI/ML models
@@ -116,7 +115,7 @@ python drowsiness_detection.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Ayesha Ali
 
